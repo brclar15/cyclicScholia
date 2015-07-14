@@ -5,7 +5,6 @@
      - pull our occurences of forms of νεώτεροι 
      - pull our key pers/placeNames
      - look at Cyclic echo passages
-
 - See how the scholia relate to the previously studied retellings
      - look for common tends
      - look for reasons elements were included in the retellings
