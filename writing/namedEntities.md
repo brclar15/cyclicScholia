@@ -1,7 +1,7 @@
 #A list of pers/placeNames to pull out#
 
 - urn:cite:hmt:pers.pers2	Lycomedes
- - urn:cite:hmt:pers.pers7	Antimachus (maybe)
+- urn:cite:hmt:pers.pers7	Antimachus (maybe)
 - urn:cite:hmt:pers.pers18	Momus
 - urn:cite:hmt:pers.pers19	Thetis (maybe)
 - urn:cite:hmt:pers.pers20	Stasinus
@@ -27,4 +27,27 @@
 - urn:cite:hmt:pers.pers97	Euripides (maybe)
 - urn:cite:hmt:pers.pers113	Briseis
 - urn:cite:hmt:pers.pers115	Cheiron
-- 
+- urn:cite:hmt:pers.pers129	Paris (maybe)
+- urn:cite:hmt:pers.pers140	Lycaon
+- urn:cite:hmt:pers.pers142	Aeneas
+- urn:cite:hmt:pers.pers145	Priam (maybe)
+- urn:cite:hmt:pers.pers148	Pirithous
+- urn:cite:hmt:pers.pers156	Eris
+- urn:cite:hmt:pers.pers177	Memnon
+- urn:cite:hmt:pers.pers178 Sophocles (maybe)
+- urn:cite:hmt:pers.pers180	Ganymedes
+- urn:cite:hmt:pers.pers189	Proteus (maybe)
+- urn:cite:hmt:pers.pers194	Aphrodite (maybe)
+- urn:cite:hmt:pers.pers225 Aeschylus (maybe)
+- urn:cite:hmt:pers.pers228	Stesichorus
+- urn:cite:hmt:pers.pers238	Tecton
+- urn:cite:hmt:pers.pers239	Phereclus
+- urn:cite:hmt:pers.pers249 Eurypylus
+- urn:cite:hmt:pers.pers255	Pherecydes
+- urn:cite:hmt:pers.pers257	Aethre
+- urn:cite:hmt:pers.pers288	Protesilaos
+- urn:cite:hmt:pers.pers289	Epeos
+- urn:cite:hmt:pers.pers291	Philoctetes
+
+
+
