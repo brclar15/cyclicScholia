@@ -1,0 +1,30 @@
+#A list of pers/placeNames to pull out#
+
+- urn:cite:hmt:pers.pers2	Lycomedes
+ - urn:cite:hmt:pers.pers7	Antimachus (maybe)
+- urn:cite:hmt:pers.pers18	Momus
+- urn:cite:hmt:pers.pers19	Thetis (maybe)
+- urn:cite:hmt:pers.pers20	Stasinus
+- urn:cite:hmt:pers.pers31	Laodike
+- urn:cite:hmt:pers.pers32	Chrysothemis
+- urn:cite:hmt:pers.pers33	Iphigenia
+- urn:cite:hmt:pers.pers34	Electra
+- urn:cite:hmt:pers.pers52	Cycnus
+- urn:cite:hmt:pers.pers53	Tennes
+- urn:cite:hmt:pers.pers54	Leucothea
+- urn:cite:hmt:pers.pers55	Philonome
+- urn:cite:hmt:pers.pers69	Apollodorus (maybe)
+- urn:cite:hmt:pers.pers70	Telephus
+- urn:cite:hmt:pers.pers72	Auge
+- urn:cite:hmt:pers.pers73	Aleus
+- urn:cite:hmt:pers.pers74	Calchas (maybe)
+- urn:cite:hmt:pers.pers79	Laomedon (maybe)
+- urn:cite:hmt:pers.pers80	Hesione (maybe)
+- urn:cite:hmt:pers.pers90	Dictys (maybe)
+- urn:cite:hmt:pers.pers91	Tyndareus
+- urn:cite:hmt:pers.pers92	Leda
+- urn:cite:hmt:pers.pers94	Helen (maybe)
+- urn:cite:hmt:pers.pers97	Euripides (maybe)
+- urn:cite:hmt:pers.pers113	Briseis
+- urn:cite:hmt:pers.pers115	Cheiron
+- 
