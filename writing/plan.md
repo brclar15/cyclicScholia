@@ -30,6 +30,8 @@
           - urn:cite:hmt:pers.pers92	Leda
           - urn:cite:hmt:pers.pers94	Helen (maybe)
           - urn:cite:hmt:pers.pers97	Euripides (maybe)
+          - urn:cite:hmt:pers.pers113	Briseis
+          - urn:cite:hmt:pers.pers115	Cheiron
           - 
      - look at Cyclic echo passages
 
