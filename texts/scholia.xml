@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Compliation of Cyclic Scholia</title>
+                
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Gathered from the hmt-archive</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="scholia">
+            <text n="1">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="2">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="3">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="4">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="5">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="6">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="7">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="8">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="e8">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="9">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="10">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="11">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="12">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="13">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="14">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="15">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="18">
+                <body>
+                    
+                </body>
+            </text>
+            <text n="19">
+                <body>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
