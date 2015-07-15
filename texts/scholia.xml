@@ -479,6 +479,58 @@
                </div>
                 </body>
             </text>
+         <text n="e8">
+                <body>
+                 <div n="11" type="scholion">
+                  <div type="marker">
+                     <p><num value="11">ΙΑ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>2.103-2.106</p>
+                  </div>
+                  <div type="comment">
+                     <p>ἀργῷ φόνου· <cit>
+                           <ref>urn:cts:greekLit:tlg0012.tlg001:24.152</ref>
+                           <q>μηδέ τί τοι θάνατος</q>
+                        </cit> καταθύμιος ἔστω· <cit>
+                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:24.153</ref>
+                           <q>τοῖον γάρ τοι πομπὸν</q>
+                        </cit>· καὶ <rs type="waw">δώτορα δὲ ἐάων</rs>
+                        <note resp="Erbse">cf. θ 335</note> αὐτὸν φησι· ἢ <rs type="waw"
+                           >ἀργοφόντης</rs>· ἢ <rs type="waw">ἀργεοφόντης</rs>, καὶ <rs type="waw"
+                           >ἀργειφόντης</rs>· ὡς πλέον πλεῖν· τὸν δὲ <persName n="pers297"
+                           >Ἰοῦς</persName> ἔρωτα, οὐκ οἶδεν ὁ <choice>
+                           <abbr>ποιητ</abbr>
+                           <expan>ποιητής</expan>
+                        </choice>· πέπλασται δὲ τοῖς νεωτέροις τὰ περὶ <placeName n="place44"
+                           >Ἄργον</placeName>· ἐκ δὲ τοῦ <rs type="waw"><persName n="pers24"><choice>
+                                 <abbr>Πελοπ</abbr>
+                                 <expan>Πέλοπι</expan>
+                              </choice></persName> πληξίππῳ</rs>, ὁ ἱππικὸς ἀγὼν <persName
+                           n="pers24">Πέλοπος</persName> καὶ <persName n="pers49"
+                           >Οἰνομάου</persName> δηλοῦται· τὸ δὲ ἐπίθετον <persName n="pers28"
+                           >Θυέστου</persName>· ὅτι πολύαρνος ὢν, ἐγέννησε τὸν μῦθον τὸν περὶ τῆς
+                        χρυσῆς ἀρνός⁑ </p>
+                  </div>
+               </div>
+               <div n="23" type="scholion">
+                  <div type="marker">
+                     <p><num value="23">ΚΓ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>2.115</p>
+                  </div>
+                  <div type="comment">
+                     <p>ἐκ τοῦ <rs type="waw">δυσκλεεὺς</rs>, <rs type="waw">δυσκλεέα</rs> ἔστι δὲ
+                        ἔλλειψις τοῦ <rs type="waw">ε</rs> οὐ συναλιφή· οἱ δὲ νεώτεροι ἐκτείνουσι
+                        καὶ περισπῶσιν ὡς ἀπὸ τοῦ <rs type="waw">δυσκλεής</rs>· τοῦτο δὲ εἶπεν,
+                        οἰόμενος ὡς οὐ πείσονται οἱ <rs type="ethnic" n="place3">Ἕλληνες</rs>. <rs
+                           type="waw">δυσκλεεῖς</rs> ὑποστρέψαι⁑</p>
+                  </div>
+               </div>
+               
+                </body>
+            </text>
             <text n="3">
                 <body>
                 <div
@@ -838,11 +890,6 @@
                 </body>
             </text>
             <text n="8">
-                <body>
-                    
-                </body>
-            </text>
-            <text n="e8">
                 <body>
                     
                 </body>
