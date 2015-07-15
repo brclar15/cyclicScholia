@@ -48,6 +48,21 @@
 - urn:cite:hmt:pers.pers288	Protesilaos
 - urn:cite:hmt:pers.pers289	Epeos
 - urn:cite:hmt:pers.pers291	Philoctetes
-
-
-
+- urn:cite:hmt:pers.pers330	Quintus Smyrnaeus (maybe)
+- urn:cite:hmt:pers.pers331	Penthesilea
+- urn:cite:hmt:pers.pers339	Stesichorus
+- urn:cite:hmt:pers.pers398	Castor
+- urn:cite:hmt:pers.pers399	Polydeuces
+- urn:cite:hmt:pers.pers424	Panopeus
+- urn:cite:hmt:pers.pers452	Rhesus
+- urn:cite:hmt:pers.pers507	Helenus
+- urn:cite:hmt:pers.pers508	Deiphobus
+- urn:cite:hmt:pers.pers509	Antenor
+- urn:cite:hmt:pers.pers535	Hecuba (maybe)
+- urn:cite:hmt:pers.pers654	Cinyras
+- urn:cite:hmt:pers.pers659	Themis
+- urn:cite:hmt:pers.pers687	Laodice
+- urn:cite:hmt:pers.pers688	Aethra
+- urn:cite:hmt:pers.pers726	Astyanax
+- urn:cite:hmt:pers.pers747	Podarces (maybe)
+- urn:cite:hmt:pers.pers780	Proclus
