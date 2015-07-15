@@ -685,17 +685,156 @@
             </text>
             <text n="5">
                 <body>
-                    
+                 <div ana="333c" n="2034" type="scholion">
+            <div type="lemma"> </div>
+            <div type="ref">
+              <p>5.333</p>
+            </div>
+            <div type="comment">
+              <p>κακῶς ὅσοι δασύνουσι τὸ<rs type="waw">υ</rs>, τοῦ <persName n="pers219"
+                  >Ἐνυώ</persName>, ἄμεινον γὰρ ψιλοῦν ἀναπέπλασται γὰρ πολεμικὴ θεος ἧς οἱ νεώτεροι
+                ποιηταὶ <choice>
+                  <abbr>υν</abbr>
+                  <expan>υιον</expan>
+                </choice> εἶναι φασὶ τὸν <persName n="pers83">Ἄρεα</persName>. καὶ δια τοῦτο
+                καλεῖσθαι <persName n="pers83">Ἐνυάλιον</persName> μητρωνυμικῶς ⁑</p>
+            </div>
+          </div>
+          <div ana="670a" n="4045" type="scholion">
+            <div type="lemma">
+              <p/>
+            </div>
+            <div type="ref">
+              <p>5.670</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι οἱ νεώτεροι τλήμονα τὸν ἀτυχῆ ὁ δὲ <persName n="pers17">Ὅμηρος</persName> τὸν
+                ὑπομενητικον ἀπο τοῦ τλῆναι ⁑</p>
+            </div>
+          </div>
                 </body>
             </text>
             <text n="6">
                 <body>
-                    
+                <div ana="325a" type="scholion" n="6.105">
+                        <div type="lemma">
+                            <p>τὸν δ’ <persName>Ἕκτωρ</persName> νείκεσσεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>6.325</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι κυκλικως κατα κέχρηται οὐδὲν γὰρ λέγεται ἐπιπληκτικόν ⁑</p>
+                            
+                        </div>
+                    </div>
+                    <div ana="170b" type="scholion" n="6.172">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>6.170</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τουτον οἱ νεώτεροι <choice>
+                                    <abbr><persName>Ϊωβατ</persName></abbr>
+                                    <expan><persName>Ϊωβατην</persName></expan>
+                                </choice> φασιν ⁑ </p>
+                        </div>
+                    </div>
+                    <div ana="153a" type="scholion" n="6.50">
+                        <div type="lemma">
+                            <p>ἔνθα δὲ <persName>Σίσυφος</persName></p>
+                        </div>
+                        <div type="ref">
+                            <p>6.153</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἡ διπλὴ οτι τον συνετὸν καὶ κερδαλέον κέρδιστον λεγει οἱ δε νεώτερροι
+                                τον φιλοκερδῆ ἐξεδέξαντο ⁑</p>
+                            
+                        </div>
+                    </div>
+                    <div ana="160a" type="scholion" n="6.56">
+                        <div type="lemma">
+                            <p>(see above: There is a clear ending mark, yet the prior scholion
+                                seems to be this one's lemma)</p>
+                        </div>
+                        <div type="ref">
+                            <p>6.160</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἡ διπλῆ οτι <choice>
+                                    <abbr>Ὅμρ</abbr>
+                                    <expan>Ὅμερος</expan>
+                                </choice>
+                                <persName>Ἄντειαν</persName>· οἱ δὲ νεώτεροι
+                                    <persName>Σθενέβοιαν</persName>, καὶ οι ἀκαίρως τὸ δῖα μάχεται
+                                γὰρ ἡ μάχλος ⁑</p>
+                            
+                        </div>
+                    </div>
+                    <div ana="199" type="scholion" n="6.69">
+                        <div type="lemma">
+                            <p> ἡ δ’ ἔτεκ’ ἀντίθεον Σαρπηδόνα</p>
+                        </div>
+                        <div type="ref">
+                            <p>6.199</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι καθ <persName>Ὅμηρον</persName>
+                                <choice>
+                                    <abbr><persName>Σαρπηδὼν</persName></abbr>
+                                    <expan><persName>Σαρπηδὼνα</persName></expan>
+                                </choice> υἱος <persName>Εὐρώπης</persName> οὐκ ἔστιν οὐδ’ ἀδελφὸς
+                                    <persName>Μίνωος</persName> ὡς οἱ νέωτεροι. καὶ γὰρ οἱ χρόνοι
+                                εὔδηλοι ⁑</p>
+                            
+                        </div>
+                    </div>
+                     <div ana="457a" type="scholion" n="6.132">
+                        <div type="lemma">
+                            <p>‡ καί κεν ὕδωρ φορέοις</p>
+                        </div>
+                        <div type="ref">
+                            <p>6.457</p>
+                        </div>
+                        <div type="comment">
+                            <p>οτι κατα τὸ προστυχὼν οὕτως εἰποντος <persName>Ὁμήρου</persName> οἱ
+                                νεώτεροι τῷ ὄντι ὑδροφοροῦσαν εἰσάγουσιν αὐτήν ⁑</p>
+                            
+                        </div>
+                    </div>
+                    <div ana="507b.2" type="scholion" n="6.152">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>6.507</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἄλλως οἱ νεώτεροι ἐπιθυμεῖν το κροαίνειν καὶ
+                                    <persName>Ἀρχίλοχος</persName> ⁑</p>
+                            
+                        </div>
+                    </div>
                 </body>
             </text>
             <text n="7">
                 <body>
-                    
+                <div n="3034" type="scholion">
+                  <div type="lemma">
+                     <p>αλλ οἲ δ ἂνδραπόδεσσι.</p>
+                  </div>
+                  <div type="ref">
+                     <p>7.475</p>
+                  </div>
+                  <div type="comment">
+                     <p> ἀθετεῖται, ὅτι νεωτερικὴ ὀνομασία τοῦ <rs type="waw">ἀνδράποδον</rs>· οὐδε
+                        γὰρ παρα τοῖς ἐπιβεβληκόσιν <persName n="pers17">Ὁμήρῳ</persName> νοεῖται·
+                        λυπει δὲ καὶ τὸ <q>ἄλλοι</q> πλεονάζον ⁑</p>
+                  </div>
+               </div>
                 </body>
             </text>
             <text n="8">
@@ -710,7 +849,58 @@
             </text>
             <text n="9">
                 <body>
-                    
+                <div n="129" type="scholion">
+                  <div type="lemma">
+                     <p>ἀλλ επεὶ ἀασάμην.</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.119</p>
+                  </div>
+                  <div type="comment">
+                     <p>ὅτι οἱ νεώτεροι λευγαλέον τὸ δίυγρον ἐπὶ τοῦ <persName n="pers1"
+                           >Ἀχιλλέως</persName>, νῦν δέ με λευγαλέον θάνατον. ἐστι δὲ λευγαλέον τὸ
+                        ὀλέθριον παρα τὸν <sic>λυγόν</sic> ⁑</p>
+                  </div>
+               </div>
+                <div n="645" type="scholion">
+                  <div type="lemma">
+                     <p>ὡς ἔφατ᾽, εἰσὶ καὶ οἵδε·</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.688</p>
+                  </div>
+                  <div type="comment">
+                     <p>ἀθετοῦνται στίχοι πέντε ἕως τοῦ αὔριον ἢν ἐθέλῃσιν ὅτι καὶ νεώτεροι τοῖς
+                        νοήμασι καὶ τῇ συνθέσει πεζότεροι καὶ ὅτι ὡς ἀπιστησόμενος μάρτυρας
+                        ἐπισπᾶται:</p>
+                  </div>
+               </div>
+               <div n="169" type="scholion">
+                  <div type="lemma">
+                     <p/>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.145</p>
+                  </div>
+                  <div type="comment">
+                     <p><choice>
+                           <abbr>οτ</abbr>
+                           <expan>ὅτι</expan>
+                        </choice> οὐκ οἰδεν τὴν παρα τοῖς νεωτεροις σφαγὴν <persName n="pers33"
+                           >Ἰφιγενείας</persName></p>
+                  </div>
+               </div>
+               <div n="75" type="scholion">
+                  <div type="lemma">
+                     <p/>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.58</p>
+                  </div>
+                  <div type="comment">
+                     <p>νεώτερος</p>
+                  </div>
+               </div>
                 </body>
             </text>
             <text n="10">
