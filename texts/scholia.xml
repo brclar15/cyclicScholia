@@ -16,9 +16,10 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="scholia">
-            <text n="1">
-                <body>
+       <body>
+     
+            <div n="1">
+                
                 <div ana="5-6" n="10" type="scholion">
                      <div type="lemma">
                         <p><persName n="pers8">Διὸς</persName> δ' ἐτελείετο βουλή⁑ ἐξ οῦ δὴ τὰ
@@ -310,19 +311,18 @@
                            λόγον οὐκ έχουσα⁑</p>
                      </div>
                   </div>
-                   <div type="lemma"/>
-                     <div type="ref">
-                        <p>1.59</p>
-                     </div>
-                     <div type="comment">
-                        <p>προς τὴν τῶν νεωτέρων ἱστορίαν ὅτι ἐνθεν τὴν κατὰ <placeName n="place20"
-                              >Μυσίαν</placeName> ϊστοριαν ἔπλασαν⁑</p>
-                     </div>
+               <div ana="59c" n="84" type="scholion">
+                  <div type="lemma"/>
+                  <div type="ref">
+                     <p>1.59</p>
                   </div>
-                </body>
-            </text>
-            <text n="2">
-                <body>
+                  <div type="comment">
+                     <p>προς τὴν τῶν νεωτέρων ἱστορίαν ὅτι ἐνθεν τὴν κατὰ <placeName n="place20"
+                        >Μυσίαν</placeName> ϊστοριαν ἔπλασαν⁑</p>
+                  </div>
+               </div>
+            </div>
+            <div n="2">
                     <div n="509" type="scholion">
                   <div type="lemma">
                      <p>οὐδ' ἠβαιον·</p>
@@ -477,10 +477,8 @@
                      <p>ὅτι όσσα ἡ θεία κληδών οἱ δὲ νεώτεροι ψιλῶς ἐπι πάσης φωνῆς⁑</p>
                   </div>
                </div>
-                </body>
-            </text>
-         <text n="e8">
-                <body>
+            </div>
+         <div n="e2">
                  <div n="11" type="scholion">
                   <div type="marker">
                      <p><num value="11">ΙΑ</num></p>
@@ -529,10 +527,9 @@
                   </div>
                </div>
                
-                </body>
-            </text>
-            <text n="3">
-                <body>
+                
+            </div>
+            <div n="3">
                 <div
                   ana="3.242D"
                   n="379"
@@ -653,10 +650,8 @@
                   </div>
                </div>
                
-                </body>
-            </text>
-            <text n="4">
-                <body>
+            </div>
+            <div n="4">
                 <div ana="4.59b" n="99" type="scholion">
                                     <div type="lemma">
                                           <p> ‡ καὶ με πρεσβυτάτην·</p>
@@ -733,10 +728,9 @@
                                                 κατακλυσμοῖς ⁑</p>
                                     </div>
                               </div>
-                </body>
-            </text>
-            <text n="5">
-                <body>
+                
+            </div>
+            <div n="5">
                  <div ana="333c" n="2034" type="scholion">
             <div type="lemma"> </div>
             <div type="ref">
@@ -764,10 +758,9 @@
                 ὑπομενητικον ἀπο τοῦ τλῆναι ⁑</p>
             </div>
           </div>
-                </body>
-            </text>
-            <text n="6">
-                <body>
+                
+            </div>
+            <div n="6">
                 <div ana="325a" type="scholion" n="6.105">
                         <div type="lemma">
                             <p>τὸν δ’ <persName>Ἕκτωρ</persName> νείκεσσεν</p>
@@ -870,10 +863,9 @@
                             
                         </div>
                     </div>
-                </body>
-            </text>
-            <text n="7">
-                <body>
+                
+            </div>
+            <div n="7">
                 <div n="3034" type="scholion">
                   <div type="lemma">
                      <p>αλλ οἲ δ ἂνδραπόδεσσι.</p>
@@ -887,10 +879,9 @@
                         λυπει δὲ καὶ τὸ <q>ἄλλοι</q> πλεονάζον ⁑</p>
                   </div>
                </div>
-                </body>
-            </text>
-            <text n="8">
-                <body>
+                
+            </div>
+            <div n="8">
                      <div n="25" type="scholion">
                   <div type="lemma">
                      <p><persName n="urn:cite:hmt:pers.pers67">Τριτογένεια</persName>:</p>
@@ -944,10 +935,8 @@
                         κεφαλάς φησίν ⁑</p>
                   </div>
                </div>
-                </body>
-            </text>
-            <text n="9">
-                <body>
+            </div>
+            <div n="9">
                 <div n="129" type="scholion">
                   <div type="lemma">
                      <p>ἀλλ επεὶ ἀασάμην.</p>
@@ -1000,10 +989,9 @@
                      <p>νεώτερος</p>
                   </div>
                </div>
-                </body>
-            </text>
-            <text n="10">
-                <body>
+                
+            </div>
+            <div n="10">
                 <div n="1008" type="scholion">
                         <div type="lemma">
                             <p>ἀλλ᾽ ἑμές τ᾽ εἰσορόων: </p>
@@ -1094,43 +1082,43 @@
                                     </choice></persName> αντι τοῦ <q>ματαίως</q></p>
                         </div>
                     </div>
-                </body>
-            </text>
-            <text n="11">
-                <body>
-                    
-                </body>
-            </text>
-            <text n="12">
-                <body>
-                    
-                </body>
-            </text>
-            <text n="13">
-                <body>
-                    
-                </body>
-            </text>
-            <text n="14">
-                <body>
-                    
-                </body>
-            </text>
-            <text n="15">
-                <body>
-                    
-                </body>
-            </text>
-            <text n="18">
-                <body>
-                    
-                </body>
-            </text>
-            <text n="19">
-                <body>
-                    
-                </body>
-            </text>
-        </group>
+                
+            </div>
+            <div n="11">
+          
+          
+          
+            </div>
+            <div n="12">
+             
+             
+             
+            </div>
+            <div n="13">
+                
+                
+                
+            </div>
+            <div n="14">
+                
+                
+                
+            </div>
+            <div n="15">
+           
+           
+           
+            </div>
+            <div n="18">
+                
+                
+                
+            </div>
+            <div n="19">
+                
+                
+                
+            </div>
+       </body>
     </text>
 </TEI>
