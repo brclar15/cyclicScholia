@@ -481,12 +481,206 @@
             </text>
             <text n="3">
                 <body>
-                    
+                <div
+                  ana="3.242D"
+                  n="379"
+                  type="scholion">
+                  <div
+                     type="lemma">
+                     <p> αἴσχεα</p>
+                  </div>
+                  <div
+                     type="ref">
+                     <p>3.242</p>
+                  </div>
+                  <div
+                     type="comment">
+                     <p> ῾<persName>Ελένη</persName> ἀρπασθεῖσα ὑπο ᾿<persName>Αλεξάνδρου</persName>
+                        ἀγνοοῦσα τὸ συμβεβηκὸς μεταξὺ τοῖς ἀδελφοῖς <rs>Διοσκούροις</rs> κακὸν
+                        ὑπολαμβάνειν. δι αἰσχύνης αὐτῆς μὴ πεπορεῦσθαι τούτους εἰς
+                           ῎<placeName>Ιλιον</placeName> ἐπειδὴ προτέρως ὑπο
+                           <persName>Θησέως</persName> ἡρπάσθη καθὼς προ εἴρηται· δια γὰρ τὴν τότε
+                        γινομένην ἁρπαγὴν <placeName>᾿Αφίδνα</placeName>
+                        <choice>
+                           <abbr>πς</abbr>
+                           <expan>πόλις</expan>
+                        </choice> ᾿<placeName>Αττικῆς</placeName> πορθεῖται καὶ <choice>
+                           <abbr>τιτρώσκετ</abbr>
+                           <expan>τιτρώσκεται</expan>
+                        </choice>
+                        <persName>Κάστωρ</persName> ὑπὸ φίδνου τοῦ τότε βασιλέως κατα τὸν δεξιὸν
+                        μηρόν· οἱ δε <rs>Διόσκουροι</rs>
+                        <persName>Θησέως</persName> μη τυχόντες λαφυραγωγοῦσι τὰς
+                           <placeName>᾿Αθήνας</placeName>. ἡ ϊστορία παρα τοῖς <rs>Πολεμωνίοις</rs>
+                        ἢ τοῖς κυκλικοῖς καὶ ἀπο μέρους παρὰ ᾿<persName>Αλκμᾶνι</persName> τῷ λυρικῷ
+                        ⁑ </p>
+                  </div>
+               </div>
+               <div
+                     type="ref">
+                     <p>3.443</p>
+                  </div>
+                  <div
+                     type="comment">
+                     <p><persName>᾿Αλέξανδρος</persName> υἳος <persName>Πριαμου</persName>
+                        <placeName>Τροίας</placeName> βασιλέως ὁ καὶ <persName>Πάρις</persName>. <choice>
+                           <abbr>ἐπικαλούμ</abbr>
+                           <expan>ἐπικαλούμενος</expan>
+                        </choice>
+                        <persName> ᾿Αφροδίτης</persName> ἐπιταγῇ ναυτηγήσαντος αυτῷ ναῦς
+                           <persName>Αρμονίδου</persName> ἡ κατά τινας τῶν νεωτέρων
+                           <persName>Φερέκλου</persName> τοῦ τέκτονος μετὰ
+                           <persName>᾿Αφροδίτης</persName> ἦλθεν εἰς
+                           <placeName>Λακεδαίμονα</placeName> τὴν <persName>Μενελάου</persName>
+                        <choice>
+                           <abbr>πο</abbr>
+                           <expan>πόλιν</expan>
+                        </choice>
+                        <choice>
+                           <abbr>ἐνταῦθ</abbr>
+                           <expan>ἐνταῦθα</expan>
+                        </choice> δὲ τὴν<persName>῾Ελένην</persName> ὀφθαλμοβολήσας<choice>
+                           <abbr><persName> ᾿Αφροδιτ</persName></abbr>
+                           <expan><persName> ᾿Αφροδιτης</persName></expan>
+                        </choice> αἱρέσει βληθεῖσαι<persName> ῾Ελένην</persName> δι
+                           αλληλομαχίαν<persName> ῎Ερωτος</persName> ἀναλαβὼν αὐτὴν σὺν τοῖς ἐν τῷ
+                        οἴκῳ χρήμασιν ῆλθεν εἰς <rs>Σιδῶνα</rs> τῆς <placeName>Φοινίκης</placeName>
+                        κακεῖ γαμου συνουσίαν ποιησάμενος ῆκεν ἔχων αὐτὴν εἰς<placeName>
+                           ῎Ιλιον</placeName> μητρόπολις δὲ αύτη τῆς <placeName>Τροιας</placeName>
+                        ἔκ τε τῆς <choice>
+                           <abbr>ἐνταυθ</abbr>
+                           <expan>ἐνταῦθα</expan>
+                        </choice> δια τῶν όρκων καὶ συνθηκῶν ἀδικίας. αὐτῆς
+                           πάλιν<persName>᾿Αφροδίτη</persName>ς αἱρέσει κομίσας οικαδε <choice>
+                           <abbr>συνεκοιμηθ</abbr>
+                           <expan>συνεκοιμήθη</expan>
+                        </choice> ἀπροσδοκήτως πάλιν σύνευνον παρειληφῶς ὡς δηλοῖ ὁ ποιητὴς δια τῶν
+                        ἑαυτοῦ λόγων ⁑</p>
+                  </div>
+               </div>
+                <div
+                     type="ref">
+                     <p>3.108</p>
+                  </div>
+                  <div
+                     type="comment">
+                     <p> νεωτερ (symbol) </p>
+                  </div>
+               </div>
+               <div
+                     type="ref">
+                     <p>3.49</p>
+                  </div>
+                  <div
+                     type="comment">
+                     <p> ὅτι ἀπίαν τὸν πολὺ ἀφεστῶσαν οὐχ ὡς οἱ νεώτεροι τὴν
+                           <placeName>Πελοπόννησον</placeName> ⁑ </p>
+                  </div>
+               </div>
+                <div
+                     type="ref">
+                     <p>3.184</p>
+                  </div>
+                  <div
+                     type="comment">
+                     <p> ὅτι διαφέρει ἡ <placeName>Φρυγία</placeName> τῆς <rs>Τροίας</rs> καθ
+                           <persName>Ὅμηρον</persName>· οἱ δὲ νεώτεροι συγχέουσι· καὶ ὅτι το ἤδη
+                        παρείληπται ἀντι χρονικοῦ τοῦ ποτὲ δι ὃ καὶ πάραλλήλως λέγεται τὸ ἤδη τῷ
+                           ποτε<quote> ήδη γὰρ καὶ δεῦρό ποτ᾽ ήλυθεν</quote> ⁑</p>
+                  </div>
+               </div>
+               <div
+                     type="ref">
+                     <p>3.215</p>
+                  </div>
+                  <div
+                     type="comment">
+                     <p> ἐὰν βαρύνωμεν τὸν ἠ σύνδεσμον. διαστελοῦμεν βραχύ· κείσεται γὰρ ἀντι τοῦ εἴ
+                        συναπτικοῦ· ἐὰν δὲ περισπῶμεν τελείαν στίξομεν παραπληρωματικὸς γάρ ἐστι
+                        καίτοι νεώτερος ἦν </p>
+                  </div>
+               </div>
+               
                 </body>
             </text>
             <text n="4">
                 <body>
-                    
+                <div ana="4.59b" n="99" type="scholion">
+                                    <div type="lemma">
+                                          <p> ‡ καὶ με πρεσβυτάτην·</p>
+                                    </div>
+                                    <div type="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:4.59</p>
+                                    </div>
+                                    <div type="comment">
+                                          <p> τιμιωτάτην νῦν· πλαγιασθεὶς δὲ ἐντεῦθεν <persName
+                                                  n="pers4">Ἡσίοδος</persName>, νεώτερον φησὶ τὸν
+                                                  <persName n="pers8">Δία</persName> : </p>
+                                    </div>
+                              </div>
+                               <div ana="4.167b" n="304" type="scholion">
+                                    <div type="lemma">
+                                          <p> ἐρεμνὴν αἰγίδα: </p>
+                                    </div>
+                                    <div type="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:4.167</p>
+                                    </div>
+                                    <div type="comment">
+                                          <p> ὅτι τοῦ <persName n="pers8">διὸς</persName> ὅπλον ἡ
+                                                αιγὶς πρὸς τοὺς νεωτέρους ποιητάς καὶ ὅτι καταιγίδων
+                                                καὶ ζωφόδους καταστάσεως παρασκευαστική ἐστιν ⁑ </p>
+                                    </div>
+                              </div>
+                               <div n="843" type="scholion">
+                                    <div type="lemma">
+                                          <p>ὁπλότεροι :</p>
+                                    </div>
+                                    <div type="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:4.325</p>
+                                    </div>
+                                    <div type="comment">
+                                          <p>ὅτι παραλλήλως νεώτεροι μὲν ἀντι τοῦ νέοι ὁπλότεροι δὲ
+                                                συγκριτικῶς ἀντι τοῦ εμοῦ νεώτεροι. οὐδέποτε γὰρ
+                                                ἀντι τοῦ νέοι εἴρηκεν τὸ ὁπλότεροι τὸ δὲ νεώτεροι
+                                                κατ αμφοτέρων τίθεται παρ αυτῷ καὶ συγκριτικῶς καὶ
+                                                ἀπολελυμένως ⁑</p>
+                                    </div>
+                              </div>
+                               <div ana="4.508" n="750" type="scholion">
+                                    <div type="lemma">
+                                          <p>
+                                                <placeName n="place193">Περγάμου</placeName>
+                                                ἐκκατιδών: </p>
+                                    </div>
+                                    <div type="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:4.508</p>
+                                    </div>
+                                    <div type="comment">
+                                          <p> ἐκ τῆς <choice>
+                                                  <abbr>ἀκροπο</abbr>
+                                                  <expan>ἀκροπόλεως</expan>
+                                                </choice> προσχων. <persName n="pers17"
+                                                  >Ὅμηρος</persName> δὲ μόνην τὴν τῆς <placeName
+                                                  n="place6">Ἰλίου</placeName>
+                                                <choice>
+                                                  <abbr>ἀκρόπο</abbr>
+                                                  <expan>ἀκρόπολιν</expan>
+                                                </choice>
+                                                <placeName n="place193">Πέργαμον</placeName> καλεῖ.
+                                                οἱ δὲ νεώτεροι πάσας τὰς <choice>
+                                                  <abbr>ἀκροπο</abbr>
+                                                  <expan>ἀκροπόλεις</expan>
+                                                </choice> ἰστέον δὲ ὅτι οἱ παλαιοὶ κτίζοντες τᾶς <choice>
+                                                  <abbr>πο</abbr>
+                                                  <expan>πολεῖς</expan>
+                                                </choice> ἐν τοῖς ὑψηλοτέροις τόποις <choice>
+                                                  <abbr>ἀκροπο</abbr>
+                                                  <expan>ἀκροπόλεις</expan>
+                                                </choice> ἐποίουν δια τὸ εκεῖσε προσφεύγειν ἀπο των
+                                                κοιλοτέρων τόπων τοὺς ενοικοῦντας ἐν τοῖς
+                                                κατακλυσμοῖς ⁑</p>
+                                    </div>
+                              </div>
                 </body>
             </text>
             <text n="5">
