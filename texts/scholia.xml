@@ -1158,11 +1158,108 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
             <div n="15">
            
-           
+           <div n="93" type="scholion">
+                        <div type="lemma">
+                            <p><persName n="urn:cite:hmt:pers.pers192">Ἥφαιστος</persName>
+                                <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName> δῶκε</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.310</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι σαφῶς <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName>
+                                ἐσκεύασται, ἡ αἰγὶς καὶ οὐκ έστιν <persName
+                                    n="urn:cite:hmt:pers.pers67">Ἀθηνᾶς</persName> καθὼς οἱ νεώτεροι
+                                ποιηταὶ λέγουσιν ⁑</p>
+                        </div>
+                    </div>
            
             </div>
             <div n="18">
-                
+                 <div n="26" type="scholion">
+                        <div type="lemma">
+                            <p>τὸν μὲν ἐγὼ θρέψασα⁚</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.57</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἡ <persName n="urn:cite:hmt:pers.pers19">Θέτις</persName> οὐκ
+                                απελείφθη τοῦ <persName n="urn:cite:hmt:pers.pers184"
+                                    >Πηλέως</persName> οικου καθάπερ οἱ νεώτεροι
+                                    <sic>δωδεκατιον</sic> καταλιποῦσα τὸν <persName
+                                    n="urn:cite:hmt:pers.pers1">Ἀχιλλέα</persName>. ὁ δε <persName
+                                    n="urn:cite:hmt:pers.pers184">Πηλεὺς</persName>
+                                <persName n="urn:cite:hmt:pers.pers115">Χείρονι</persName>
+                                παραδέδωκεν ἵνα τραφῇ ⁑</p>
+                        </div>
+                    </div>
+                    <div n="28" type="scholion">
+                        <div type="lemma">
+                            <p>οἴκαδὲ νοστήσαντα⁚</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.60</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> οὐκ
+                                οῖδεν ὡς οἱ νεώτεροι ποιηταὶ κεχωρισμένην τὴν <persName
+                                    n="urn:cite:hmt:pers.pers19">Θέτιν</persName> ἀπο τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers184">Πηλέως</persName> ὑπο τὴν
+                                    <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName>
+                                γένεσιν ἀλλ ὅτι καὶ μετὰ τὸν <rs n="urn:cite:hmt:place.place6"
+                                    type="ethnic">Τρωϊκὸν</rs> πόλεμον σύνεστι λέγει ⁑</p>
+                        </div>
+                    </div>
+                    <div n="150" type="scholion">
+                        <div type="lemma">
+                            <p>τὸν μὲν ἐγὼ,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.438</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι καθ <persName n="urn:cite:hmt:pers.pers17">Ὅμηρον</persName> ἡ
+                                    <persName n="urn:cite:hmt:pers.pers19">Θέτις</persName> εθρεψε
+                                τὸν <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέα</persName> οὐ
+                                    <persName n="urn:cite:hmt:pers.pers115">Χείρων</persName> ὡς οἱ
+                                νεώτεροι ⁑</p>
+                        </div>
+                    </div>
+                    
+                    <div n="169" type="scholion">
+                        <div type="lemma">
+                            <p><rs n="urn:cite:hmt:astro.5" type="astro">Ἀρκτον</rs> θ' ἢν καὶ <rs
+                                    n="urn:cite:hmt:astro5" type="astro">Ἁμαξαν</rs>
+                            </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.487</p>
+                        </div>
+                        <div type="comment">
+                            <p>εἰς <choice>
+                                    <abbr>ἰδιότητ</abbr>
+                                    <expan>ἰδιότητα</expan>
+                                </choice>
+                                <rs n="urn:cite:hmt:astro5" type="astro">Ἄμαξαν</rs> ἐψίλωσαν οἱ πρὸ
+                                ημῶν επεὶ ἡ συναλιφὴ οὕτως εὑρέθη <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:24.711</ref>
+                                    <q>τιλλέσθην ἐπ αμαξαι</q>
+                                </cit> καὶ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:24.782</ref>
+                                    <q>αἱ δ' ὑπ αμάξησιν</q>
+                                </cit> ὥσπερ καὶ τὸ ἅλυσις ἐκ τοῦ ἐναντίου ἐδασύνθη εἰς ἰδιότητα·
+                                    <rs n="urn:cite:hmt:place.place76" type="ethnic">Ἀττικοὶ</rs>
+                                μέντοι οἱ νεώτεροι <q>τὴν ἅμαξαν</q> δασύνουσιν ΐσως δια τὸν
+                                σχηματισμὸν καὶ δια τὸ φιληδεῖν τῇ δασείᾳ ἔνθεν παρ αυτοῖς καὶ ἡ
+                                συναλιφη δια <choice>
+                                    <abbr>δα</abbr>
+                                    <expan>δασέος</expan>
+                                </choice> καθημαξευμένα ⁑</p>
+                        </div>
+                    </div>
+                    
+                    
                 
                 
             </div>
