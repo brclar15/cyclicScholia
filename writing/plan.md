@@ -2,7 +2,7 @@
 
 ##Gather Content##
 - collect the scholia that deal with the Epic Cycle from the hmt-archive
-     - pull out occurences of forms of κύκλοι
+     - pull out occurences of forms of Κυκλικοῖς
      - pull our occurences of forms of νεώτεροι 
      - pull our key pers/placeNames
           - See [list](https://github.com/brclar15/cyclicScholia/blob/master/writing/namedEntities.md)
