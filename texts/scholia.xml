@@ -1173,6 +1173,35 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ποιηταὶ λέγουσιν ⁑</p>
                         </div>
                     </div>
+                    
+                    <div n="163" type="scholion">
+                        <div type="lemma">
+                            <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> αὐτὸς γάρ
+                                οἱ·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.610-15.614</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετοῦνται στίχοι <num value="5">ε</num> ἐπιστάμεθα γὰρ ὅτι περι
+                                    <persName n="urn:cite:hmt:pers.pers172">Έκτορός</persName> ἐστιν
+                                ὁ λόγος τὴν ἔνθουν ορμὴν τοῦ <persName n="urn:cite:hmt:pers.pers172"
+                                    >Εκτορος</persName>
+                                <choice>
+                                    <abbr>ταυτ</abbr>
+                                    <expan>ταῦτα</expan>
+                                </choice> παρεριειρμένα ἐκλύει συναπτόμενα γοὖν τὰ γνήσια τὴν
+                                δεινότητα σώζει· καὶ Κυκλικῶς ταυτολογεῖται προ εἴρηται γὰρ <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:15.603-15.604</ref>
+                                    <q>τὰ φρονέων νήεσσιν ἐπι γλαφυρῇσιν ἔγειρεν <persName
+                                            n="urn:cite:hmt:pers.pers172">Ἕκτορα
+                                            Πριαμίδην</persName>·</q>
+                                </cit> πρός τι οὖν παλιλλογεῖται <persName
+                                    n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> αὐτος γάρ οἱ
+                                ἀπ' αἰθέρος ῆεν ἀμύντωρ ⁑</p>
+                        </div>
+                    </div>
            
             </div>
             <div n="18">
